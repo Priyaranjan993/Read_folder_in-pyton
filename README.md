@@ -4,7 +4,7 @@ Read folder and merge multiple excel sheets
 import pandas as pd
 
 # Directory containing the Excel files
-directory = 'C:\\Users\\neha.rathi\\Desktop\\FL Vendor merge file'
+directory = 'C:\Users\\neha.rathi\Desktop\FL Vendor merge file'
 
 # Name of the sheet to read the data from
 data_sheet = 'attachment_vprakash'
